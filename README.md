@@ -45,7 +45,7 @@ Este proyecto implementa una API RESTful para gestionar información de buses. L
 ### **Instalación**
 
 1. **Clonar el repositorio**:    
-    `git clone https://github.com/tu-usuario/mi-proyecto-backend.git cd mi-proyecto-backend`
+    `git clone https://github.com/NicoleZevallos/Proyecto-T-cnico-API-Bus.git`
     
 2. **Configurar la base de datos**: Crea una base de datos para el proyecto con Mysql. Luego, configura las credenciales en el archivo `application.properties`:
     
@@ -192,7 +192,7 @@ Este proyecto es una aplicación en React que consume la API RESTful desarrollad
 
 1. **Clonar el repositorio**:
 
-    `git clone https://github.com/tu-usuario/mi-proyecto-frontend.git cd mi-proyecto-frontend`
+    `git clone https://github.com/NicoleZevallos/Proyecto-T-cnico-API-Bus.git`
     
 2. **Instalar las dependencias**:
 
