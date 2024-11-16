@@ -81,7 +81,7 @@ mvn spring-boot:run
     - Respuesta: JSON con una lista de buses.
     - Ejemplo:
 
-	```json
+```json
 	{
     "content": [
         {
