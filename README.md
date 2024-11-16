@@ -82,47 +82,47 @@ mvn spring-boot:run
     - Ejemplo:
 
 ```json
+{
+	"content": [
 	{
-    "content": [
-        {
-            "id": 3,
-            "numeroBus": "67890",
-            "placa": "DEF-456",
-            "fechaCreacion": "2024-11-16T09:15:05",
-            "caracteristicas": "Prueba_456",
-            "marca": {
-                "id": 3,
-                "nombre": "Fiat"
-            },
-            "activo": true
-        }
-    ],
-    "pageable": {
-        "pageNumber": 2,
-        "pageSize": 1,
-        "sort": {
-            "empty": true,
-            "sorted": false,
-            "unsorted": true
-        },
-
-        "offset": 2,
-        "paged": true,
-        "unpaged": false
-    },
-    "totalPages": 3,
-    "totalElements": 3,
-    "last": true,
-    "size": 1,
-    "number": 2,
-    "sort": {
-        "empty": true,
-        "sorted": false,
-        "unsorted": true
-    },
-    "numberOfElements": 1,
-    "first": false,
-    "empty": false
+	"id": 3,
+	"numeroBus": "67890",
+	"placa": "DEF-456",
+	"fechaCreacion": "2024-11-16T09:15:05",
+	"caracteristicas": "Prueba_456",
+	"marca": {
+	"id": 3,
+	"nombre": "Fiat"
+	},
+	"activo": true
+	}
+	],
+	"pageable": {
+	"pageNumber": 2,
+	"pageSize": 1,
+	"sort": {
+	"empty": true,
+	"sorted": false,
+	"unsorted": true
+	},
+	
+	"offset": 2,
+	"paged": true,
+	"unpaged": false
+	},
+	"totalPages": 3,
+	"totalElements": 3,
+	"last": true,
+	"size": 1,
+	"number": 2,
+	"sort": {
+	"empty": true,
+	"sorted": false,
+	"unsorted": true
+	},
+	"numberOfElements": 1,
+	"first": false,
+	"empty": false
 }
 ```
 
